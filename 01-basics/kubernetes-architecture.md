@@ -19,3 +19,5 @@ Kubernetes is a container orchestration system that manages applications across 
 - **Metrics Server** → Resource metrics (CPU, memory)
 
 ---
+
+This file gives a high-level overview of how Kubernetes is structured." > kubernetes-architecture.md
