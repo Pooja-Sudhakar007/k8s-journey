@@ -32,3 +32,15 @@ Hands-on Kubernetes learning journey with concepts, YAML manifests, practical pr
 **🤝 Contributions**
 
 This repo is primarily my learning log, but feel free to fork it, suggest improvements, or use the manifests for your own learning.
+
+## 📂 Repository Structure
+```
+.
+├── 01-basics/
+├── 02-yaml-manifests/
+├── 03-advanced/
+├── 04-projects/
+├── 05-eks/
+├── 06-reference/
+└── README.md
+```
