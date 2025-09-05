@@ -36,11 +36,11 @@ This repo is primarily my learning log, but feel free to fork it, suggest improv
 ## 📂 Repository Structure
 ```
 .
-├── 01-basics/
-├── 02-yaml-manifests/
-├── 03-advanced/
-├── 04-projects/
-├── 05-eks/
-├── 06-reference/
-└── README.md
+├── 01-basics/                # 📘 Core Kubernetes concepts
+├── 02-yaml-manifests/        # 📝 Example YAML files (Pods, Deployments, Services, etc.)
+├── 03-advanced/              # 🚀 Advanced Kubernetes resources (Ingress, StatefulSets, HPA, etc.)
+├── 04-projects/              # 🛠️ Hands-on Kubernetes mini projects
+├── 05-eks/                   # ☁️ AWS Elastic Kubernetes Service (EKS) examples
+├── 06-reference/             # 📚 Cheatsheets, tips, and external references
+└── README.md                 # 🌟 Main repository documentation
 ```
